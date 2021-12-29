@@ -1,38 +1,98 @@
-.App {
-  text-align: center;
+.movie_poster{
+  height: 340px;
+  width: 340px;
+  object-fit: cover;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.movie_name{
+  font-size: 24px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.movie_specs{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.movie_container{
+  background-color: rgb(114, 105, 122);
+  width: 340px;
+  margin-top: 10px;
+  
+}
+.toggle{
+  margin-left: 134px;
+}
+
+.movie_summary{
+  padding-left: 10px;
+}
+
+.movie_list{
+  display: grid;
+  margin-left: 20px;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: repeat(auto-fit,minmax(340px,1fr));
+}
+
+body{
+  margin: 24px;
+  /* background-image: url("https://wallpaperaccess.com/full/1393192.jpg"); */
+}
+.board{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: min-content;
+  margin-top: 20px;
+ 
+}
+.game-box{
+  height: 7rem;
+  width: 7rem;
+  border:1px solid black;
+  font-size: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ cursor: pointer;
+}
+.game-box:hover{
+  background-color: rgb(228, 228, 222);
+}
+
+.add-movie-form
+{
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: stretch;
+  gap: 0.5rem;
+  margin: 0.5rem;
 }
 
-.App-link {
-  color: #61dafb;
+.movie-action{
+  display: flex;
+  gap: 0.5rem;
+ 
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.button{
+  display: flex;
+  flex-direction: row;
+}
+.piece{
+  width: 80px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+    align-content: stretch;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.Bar{
+display: flex;
+justify-content:space-arounds;
 }

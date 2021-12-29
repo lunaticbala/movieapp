@@ -1,0 +1,67 @@
+[
+  {
+    "id": "100",
+    "name": "RRR",
+    "poster": "https://i.ytimg.com/vi/lDVQojLPI4Y/maxresdefault.jpg",
+    "rating": "7.8",
+    "summary": "RRR is an upcoming Indian Telugu-language period action drama film directed by S. S. Rajamouli, and produced by D. V. V. Danayya of DVV Entertainments.",
+    "trailer": "https://www.youtube.com/embed/oO8TTM2FgIA"
+  },
+  {
+    "id": "101",
+    "name": "spider man",
+    "poster": "https://cdn.shopify.com/s/files/1/1002/7150/products/POS-475_2.jpg?v=1623645651",
+    "rating": "9.1",
+    "summary": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+    "trailer": "https://www.youtube.com/embed/wuyixh4SsAY"
+  },
+
+  {
+    "id": "102",
+    "name": "Hawkeye",
+    "poster": "https://www.comingsoon.net/assets/uploads/2021/04/hawkeye_yrht.960.jpg",
+    "rating": "8.1",
+    "summary": "Series based on the Marvel Comics superhero Hawkeye, centering on the adventures of Young Avenger, Kate Bishop, who took on the role after the original Avenger, Clint Barton.",
+    "trailer": "https://www.youtube.com/embed/3lFv6NjI3vI"
+  },
+  {
+    "id": "103",
+    "name": "The Matrix Resurrections ",
+    "poster": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2021/11/FEfcT5RVkAcVnVb.jpg",
+    "rating": "7.0",
+    "summary": "Return to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more.",
+    "trailer": "https://www.youtube.com/embed/nNpvWBuTfrc"
+  },
+  {
+    "id": "104",
+    "name": "The Last Duel ",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGExZTUzYWQtYWJjZi00OTI4LTk4OGYtNTA2YzcwMmNiZTMxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+    "rating": "7.5",
+    "summary": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel.",
+    "trailer": "https://www.youtube.com/embed/mgygUwPJvYk"
+  },
+  {
+    "id": "105",
+    "name": "The Witcher",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "rating": "8.7",
+    "summary": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+    "trailer": "https://www.youtube.com/embed/TJFVV2L8GKs"
+  },
+  {
+    "id": "106",
+    "name": "Game of Thrones",
+    "poster": "https://pyxis.nymag.com/v1/imgs/8ad/bd7/9b4da2e7a5dd1d61b0a0a6f367f9b6ba94-12-got-episode-ranking.rsquare.w700.jpg",
+    "rating": "9.2",
+    "summary": " Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+    "trailer": "https://www.youtube.com/embed/rlR4PJn8b8I"
+  },
+  {
+    "id": "107",
+    "name": "The Mandalorian",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",
+    "rating": "8.2",
+    "summary": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+    "trailer": "https://www.youtube.com/embed/eW7Twd85m2g"
+  }
+]
